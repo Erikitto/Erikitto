@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Erikitto/Erikitto/blob/main/HeaderGithubEric_001.png?raw=true" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I love and appreciate good and conceptual design. <br><br> <strong>Graduated in Graphic Design in 2007</strong>, and currently seeking professional relocation with my entry into <strong>Computer Science University</strong> in 2023. At the same time, I'm <strong>studying frontend development</strong>, initially, to become full stack in the future with a focus on web development.</p>&nbsp;
