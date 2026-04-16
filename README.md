@@ -27,6 +27,7 @@
 #### Studying in this moment:
 
 ![CS](https://img.shields.io/badge/Computer_Science-4285F4?style=for-the-badge&logo=computer-science&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Network_Engineering_and_Linux_Systems-8A2BE2?style=for-the-badge&logo=computer-science&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
